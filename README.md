@@ -17,6 +17,7 @@ sudo python setup.py install
 
 
 cd ..
-git clone 
-
+git clone https://github.com/TSGames/raspi-ring-light
+cd raspi-ring-light
+python light.py
 ```
